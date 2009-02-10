@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitJson", "src\LitJson\LitJson.csproj", "{67F185EA-F7DE-437C-8D57-A7C1AACFD705}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpCouch", "src\SharpCouch\SharpCouch.csproj", "{4C9FD949-AF2E-403C-9AB1-ECD93DFB6DD7}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebbyExample", "src\WebbyExample\WebbyExample.csproj", "{9A28D951-0925-457B-9844-803F2D5F0E36}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "src\Model\Model.csproj", "{0A711394-36F8-4B2C-B7DD-8D240701D14E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelTests", "src\ModelTests\ModelTests.csproj", "{70600ECE-470A-4DA6-AC3A-116BEC2C0389}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlDataManager", "src\MySqlDataManager\MySqlDataManager.csproj", "{BAD1F926-5764-46F4-8EFE-1F4F60F35C59}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F185EA-F7DE-437C-8D57-A7C1AACFD705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F185EA-F7DE-437C-8D57-A7C1AACFD705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F185EA-F7DE-437C-8D57-A7C1AACFD705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F185EA-F7DE-437C-8D57-A7C1AACFD705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9FD949-AF2E-403C-9AB1-ECD93DFB6DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9FD949-AF2E-403C-9AB1-ECD93DFB6DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9FD949-AF2E-403C-9AB1-ECD93DFB6DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9FD949-AF2E-403C-9AB1-ECD93DFB6DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A28D951-0925-457B-9844-803F2D5F0E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A28D951-0925-457B-9844-803F2D5F0E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A28D951-0925-457B-9844-803F2D5F0E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A28D951-0925-457B-9844-803F2D5F0E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A711394-36F8-4B2C-B7DD-8D240701D14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A711394-36F8-4B2C-B7DD-8D240701D14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A711394-36F8-4B2C-B7DD-8D240701D14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A711394-36F8-4B2C-B7DD-8D240701D14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70600ECE-470A-4DA6-AC3A-116BEC2C0389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70600ECE-470A-4DA6-AC3A-116BEC2C0389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70600ECE-470A-4DA6-AC3A-116BEC2C0389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70600ECE-470A-4DA6-AC3A-116BEC2C0389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD1F926-5764-46F4-8EFE-1F4F60F35C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD1F926-5764-46F4-8EFE-1F4F60F35C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD1F926-5764-46F4-8EFE-1F4F60F35C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD1F926-5764-46F4-8EFE-1F4F60F35C59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

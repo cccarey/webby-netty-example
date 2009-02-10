@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\noscan\source\webby\src\ModelTests\bin\Debug\ModelTests.dll" total="5" failures="0" not-run="0" date="2009-02-10" time="10:56:32">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.3053" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\noscan\source\webby\lib\nunit" machine-name="CCAREYVMWS1" user="cxcarey" user-domain="DEVOLS" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="C:\noscan\source\webby\src\ModelTests\bin\Debug\ModelTests.dll" success="True" time="0.938" asserts="0">
+    <results>
+      <test-suite name="ModelTests" success="True" time="0.938" asserts="0">
+        <results>
+          <test-suite name="Comment" success="True" time="0.891" asserts="1">
+            <results>
+              <test-case name="ModelTests.Comment.CreateAndGetTest" executed="True" success="True" time="0.016" asserts="6" />
+              <test-case name="ModelTests.Comment.PostWithCommentTest" executed="True" success="True" time="0.031" asserts="32" />
+              <test-case name="ModelTests.Comment.UpdateTest" executed="True" success="True" time="0.016" asserts="11" />
+            </results>
+          </test-suite>
+          <test-suite name="Post" success="True" time="0.031" asserts="0">
+            <results>
+              <test-case name="ModelTests.Post.CreateAndGetTest" executed="True" success="True" time="0.000" asserts="5" />
+              <test-case name="ModelTests.Post.UpdateTest" executed="True" success="True" time="0.016" asserts="10" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,15 @@
+C:\noscan\source\webby\src\ModelTests\obj\Debug\ResolveAssemblyReference.cache
+C:\noscan\source\webby\src\ModelTests\bin\Debug\ModelTests.dll.config
+C:\noscan\source\webby\src\ModelTests\bin\Debug\ModelTests.dll
+C:\noscan\source\webby\src\ModelTests\bin\Debug\ModelTests.pdb
+C:\noscan\source\webby\src\ModelTests\bin\Debug\Model.dll
+C:\noscan\source\webby\src\ModelTests\bin\Debug\nunit.framework.dll
+C:\noscan\source\webby\src\ModelTests\bin\Debug\LitJson.dll
+C:\noscan\source\webby\src\ModelTests\bin\Debug\LitJson.pdb
+C:\noscan\source\webby\src\ModelTests\bin\Debug\Model.pdb
+C:\noscan\source\webby\src\ModelTests\bin\Debug\nunit.framework.xml
+C:\noscan\source\webby\src\ModelTests\obj\Debug\ModelTests.dll
+C:\noscan\source\webby\src\ModelTests\obj\Debug\ModelTests.pdb
+C:\noscan\source\webby\src\ModelTests\bin\Debug\MySqlDataManager.dll
+C:\noscan\source\webby\src\ModelTests\bin\Debug\MySql.Data.dll
+C:\noscan\source\webby\src\ModelTests\bin\Debug\MySqlDataManager.pdb

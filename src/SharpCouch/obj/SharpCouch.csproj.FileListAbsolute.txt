@@ -1,0 +1,14 @@
+C:\noscan\source\couchbrowse\SharpCouch\bin\Debug\SharpCouch.dll
+C:\noscan\source\couchbrowse\SharpCouch\bin\Debug\SharpCouch.pdb
+C:\noscan\source\couchbrowse\SharpCouch\bin\Debug\LitJson.dll
+C:\noscan\source\couchbrowse\SharpCouch\bin\Debug\LitJson.pdb
+C:\noscan\source\couchbrowse\SharpCouch\obj\Debug\ResolveAssemblyReference.cache
+C:\noscan\source\couchbrowse\SharpCouch\obj\Debug\SharpCouch.dll
+C:\noscan\source\couchbrowse\SharpCouch\obj\Debug\SharpCouch.pdb
+C:\noscan\source\webby\src\SharpCouch\bin\Debug\SharpCouch.dll
+C:\noscan\source\webby\src\SharpCouch\bin\Debug\SharpCouch.pdb
+C:\noscan\source\webby\src\SharpCouch\bin\Debug\LitJson.dll
+C:\noscan\source\webby\src\SharpCouch\bin\Debug\LitJson.pdb
+C:\noscan\source\webby\src\SharpCouch\obj\Debug\ResolveAssemblyReference.cache
+C:\noscan\source\webby\src\SharpCouch\obj\Debug\SharpCouch.dll
+C:\noscan\source\webby\src\SharpCouch\obj\Debug\SharpCouch.pdb

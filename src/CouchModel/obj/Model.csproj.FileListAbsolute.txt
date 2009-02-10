@@ -1,0 +1,9 @@
+C:\noscan\source\webby\src\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\noscan\source\webby\src\Model\bin\Debug\Model.dll
+C:\noscan\source\webby\src\Model\bin\Debug\Model.pdb
+C:\noscan\source\webby\src\Model\bin\Debug\LitJson.dll
+C:\noscan\source\webby\src\Model\bin\Debug\SharpCouch.dll
+C:\noscan\source\webby\src\Model\bin\Debug\LitJson.pdb
+C:\noscan\source\webby\src\Model\bin\Debug\SharpCouch.pdb
+C:\noscan\source\webby\src\Model\obj\Debug\Model.dll
+C:\noscan\source\webby\src\Model\obj\Debug\Model.pdb

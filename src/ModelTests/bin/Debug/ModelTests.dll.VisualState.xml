@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1007]C:\noscan\source\webby\src\ModelTests\bin\Debug\ModelTests.dll</TopNode>
+  <SelectedNode>[0-1007]C:\noscan\source\webby\src\ModelTests\bin\Debug\ModelTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1007]C:\noscan\source\webby\src\ModelTests\bin\Debug\ModelTests.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1008]ModelTests" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1003]ModelTests.Comment" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1004]ModelTests.Comment.CreateAndGetTest" />
+                <Node UniqueName="[0-1006]ModelTests.Comment.PostWithCommentTest" />
+                <Node UniqueName="[0-1005]ModelTests.Comment.UpdateTest" />
+              </Nodes>
+            </Node>
+            <Node UniqueName="[0-1000]ModelTests.Post" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1001]ModelTests.Post.CreateAndGetTest" />
+                <Node UniqueName="[0-1002]ModelTests.Post.UpdateTest" />
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>

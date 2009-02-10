@@ -1,0 +1,6 @@
+C:\noscan\source\webby\src\MySqlDataManager\obj\Debug\ResolveAssemblyReference.cache
+C:\noscan\source\webby\src\MySqlDataManager\bin\Debug\MySqlDataManager.dll
+C:\noscan\source\webby\src\MySqlDataManager\bin\Debug\MySqlDataManager.pdb
+C:\noscan\source\webby\src\MySqlDataManager\bin\Debug\MySql.Data.dll
+C:\noscan\source\webby\src\MySqlDataManager\obj\Debug\MySqlDataManager.dll
+C:\noscan\source\webby\src\MySqlDataManager\obj\Debug\MySqlDataManager.pdb

@@ -1,0 +1,10 @@
+C:\noscan\source\couchbrowse\LitJson\bin\Debug\LitJson.dll
+C:\noscan\source\couchbrowse\LitJson\bin\Debug\LitJson.pdb
+C:\noscan\source\couchbrowse\LitJson\obj\Debug\ResolveAssemblyReference.cache
+C:\noscan\source\couchbrowse\LitJson\obj\Debug\LitJson.dll
+C:\noscan\source\couchbrowse\LitJson\obj\Debug\LitJson.pdb
+C:\noscan\source\webby\src\LitJson\bin\Debug\LitJson.dll
+C:\noscan\source\webby\src\LitJson\bin\Debug\LitJson.pdb
+C:\noscan\source\webby\src\LitJson\obj\Debug\ResolveAssemblyReference.cache
+C:\noscan\source\webby\src\LitJson\obj\Debug\LitJson.dll
+C:\noscan\source\webby\src\LitJson\obj\Debug\LitJson.pdb

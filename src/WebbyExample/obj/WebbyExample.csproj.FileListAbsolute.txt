@@ -1,0 +1,12 @@
+C:\noscan\source\webby\src\WebbyExample\bin\WebbyExample.dll
+C:\noscan\source\webby\src\WebbyExample\bin\WebbyExample.pdb
+C:\noscan\source\webby\src\WebbyExample\obj\Debug\ResolveAssemblyReference.cache
+C:\noscan\source\webby\src\WebbyExample\obj\Debug\WebbyExample.dll
+C:\noscan\source\webby\src\WebbyExample\obj\Debug\WebbyExample.pdb
+C:\noscan\source\webby\src\WebbyExample\bin\Model.dll
+C:\noscan\source\webby\src\WebbyExample\bin\MySqlDataManager.dll
+C:\noscan\source\webby\src\WebbyExample\bin\LitJson.dll
+C:\noscan\source\webby\src\WebbyExample\bin\MySql.Data.dll
+C:\noscan\source\webby\src\WebbyExample\bin\Model.pdb
+C:\noscan\source\webby\src\WebbyExample\bin\MySqlDataManager.pdb
+C:\noscan\source\webby\src\WebbyExample\bin\LitJson.pdb
