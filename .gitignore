@@ -1,3 +1,5 @@
 *.suo
 *.user
+*.dll
+*.pdb
 */bin/*

@@ -43,13 +43,6 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="addComment.aspx.cs">
-      <SubType>ASPXCodeBehind</SubType>
-      <DependentUpon>addComment.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="addComment.aspx.designer.cs">
-      <DependentUpon>addComment.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Default.aspx.cs">
       <SubType>ASPXCodeBehind</SubType>
       <DependentUpon>Default.aspx</DependentUpon>
@@ -72,13 +65,6 @@
       <DependentUpon>main.master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="updatePost.aspx.cs">
-      <SubType>ASPXCodeBehind</SubType>
-      <DependentUpon>updatePost.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="updatePost.aspx.designer.cs">
-      <DependentUpon>updatePost.aspx</DependentUpon>
-    </Compile>
     <Compile Include="view.aspx.cs">
       <SubType>ASPXCodeBehind</SubType>
       <DependentUpon>view.aspx</DependentUpon>
@@ -88,11 +74,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="addComment.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="editPost.aspx" />
     <Content Include="main.master" />
-    <Content Include="updatePost.aspx" />
     <Content Include="view.aspx" />
   </ItemGroup>
   <ItemGroup>

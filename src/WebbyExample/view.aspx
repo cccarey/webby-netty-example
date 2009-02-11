@@ -19,7 +19,7 @@
             <%
         }
     %>
-    <form id="postComment" method="post" action="addComment.aspx">
+    <form id="postComment" method="post" action="view.aspx">
         <div style="display:block;border:1px solid grey;width:80%;margin-bottom:2px;">
             <input type="hidden" id="comment.post_id" name="comment.post_id" value="<%=post.ID %>" />
             <input type="hidden" id="comment.number" name="comment.number" value="<%=post.Comments.Count+1 %>" />

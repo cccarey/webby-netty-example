@@ -1,6 +1,6 @@
 <%@ Page Language="C#" MasterPageFile="~/main.master" AutoEventWireup="true" CodeBehind="editPost.aspx.cs" Inherits="WebbyExample.editPost" Title="Untitled Page" %>
 <asp:Content ID="mainContent" ContentPlaceHolderID="primaryContent" runat="server">
-    <form id="editPost" method="post" action="updatePost.aspx">
+    <form id="editPost" method="post" action="editPost.aspx">
         <input type="hidden" id="post.id" name="post.id" value="<%=post.ID %>" />
         <h3>Key</h3>
         <input type="text" id="post.key" name="post.key" value="<%=post.Key %>" style="width:30em"/>
