@@ -19,7 +19,7 @@
                    %>
                    <tr>
                     <td><a href="view.aspx?id=<%=post.ID %>"><%=post.Title %></a></td>
-                    <td><%=post.Comments.Count %></td>
+                    <td><%=post.CommentCount %></td>
                     <td><a href="editPost.aspx?id=<%=post.ID %>">Edit</a></td>
                    </tr>
                    <%

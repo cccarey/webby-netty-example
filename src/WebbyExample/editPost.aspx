@@ -10,6 +10,6 @@
         <textarea id="post.content" name="post.content" cols="50" rows="15"><%=post.Content %></textarea>
         <h3>Created</h3>
         <p><%=post.Created %></p>
-        <input type="submit" value="Update" />
+        <input type="submit" value="Post" />
     </form>
 </asp:Content>

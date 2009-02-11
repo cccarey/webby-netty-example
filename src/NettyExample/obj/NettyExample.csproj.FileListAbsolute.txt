@@ -1,0 +1,12 @@
+C:\noscan\source\webby\src\NettyExample\bin\NettyExample.dll
+C:\noscan\source\webby\src\NettyExample\bin\NettyExample.pdb
+C:\noscan\source\webby\src\NettyExample\bin\Model.dll
+C:\noscan\source\webby\src\NettyExample\bin\MySqlDataManager.dll
+C:\noscan\source\webby\src\NettyExample\bin\LitJson.dll
+C:\noscan\source\webby\src\NettyExample\bin\MySql.Data.dll
+C:\noscan\source\webby\src\NettyExample\bin\Model.pdb
+C:\noscan\source\webby\src\NettyExample\bin\MySqlDataManager.pdb
+C:\noscan\source\webby\src\NettyExample\bin\LitJson.pdb
+C:\noscan\source\webby\src\NettyExample\obj\Debug\ResolveAssemblyReference.cache
+C:\noscan\source\webby\src\NettyExample\obj\Debug\NettyExample.dll
+C:\noscan\source\webby\src\NettyExample\obj\Debug\NettyExample.pdb

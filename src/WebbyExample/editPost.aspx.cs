@@ -9,14 +9,9 @@ namespace WebbyExample
         protected Post post;
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Request.QueryString["id"] == null)
-            {
-                post = new Post();
-            }
-            else
-            {
+            post = (Request.QueryString["id"] == null) ?
+                post = new Post() :
                 post = Post.Get(Convert.ToInt32(Request.QueryString["id"]));
-            }
         }
     }
 }

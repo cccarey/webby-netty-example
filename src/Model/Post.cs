@@ -82,6 +82,11 @@ namespace Model
         }
         private List<Comment> _comments = null;
 
+        public int CommentCount
+        {
+            get { return this.Comments.Count; }
+        }
+
         public void Save()
         {
         	string sql = (this.ID > 0) ?

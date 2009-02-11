@@ -1,0 +1,13 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="NettyExample.main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Netty Example</title>
+</head>
+<body>
+    <asp:ContentPlaceHolder ID="primaryContent" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

@@ -37,6 +37,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlDataManager", "src\MyS
 		Release.AspNetCompiler.Debug = "False"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NettyExample", "src\NettyExample\NettyExample.csproj", "{2AFDF20C-C30E-42E2-8D88-3AF941CB8C05}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +73,10 @@ Global
 		{BAD1F926-5764-46F4-8EFE-1F4F60F35C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD1F926-5764-46F4-8EFE-1F4F60F35C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD1F926-5764-46F4-8EFE-1F4F60F35C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AFDF20C-C30E-42E2-8D88-3AF941CB8C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFDF20C-C30E-42E2-8D88-3AF941CB8C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFDF20C-C30E-42E2-8D88-3AF941CB8C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFDF20C-C30E-42E2-8D88-3AF941CB8C05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
