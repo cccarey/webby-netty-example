@@ -1,0 +1,33 @@
+Comparison of approaches
+
+Webby - No ASP.NET controls.  Straight HTML
+Netty - ASP.NET controls 
+  (not necesarily the "correct" way, but a commonly used way)
+
+Columns are: bytes of code, lines of code, bytes sent to browser
+
+bytes sent to browser for a specific blog/comment use case
+
+Webby
+
+Default.aspx - 1294 bytes - 37 lines - 1956 bytes
+Default.aspx.cs - 331 bytes - 16 lines
+editPost.aspx - 925 bytes - 15 lines - 964 bytes
+editPost.aspx.cs - 879 bytes - 30 lines
+view.aspx - 1468 bytes - 30 lines - 1834 bytes
+view.aspx.cs - 1079 bytes - 35 lines
+
+Totals - 5976 bytes - 174 lines - 4754 bytes
+Percent - (12%) - 10% - (30%)
+
+Netty
+
+Default.aspx - 1384 bytes - 22 lines - 1903 bytes
+Default.aspx.cs - 300 bytes - 15 lines
+editPost.aspx - 912 bytes - 15 lines - 1655 bytes
+editPost.aspx.cs - 1122 bytes - 37 lines
+view.aspx - 1638 bytes - 27 lines - 2816 bytes
+view.aspx.cs - 1442 bytes - 42 lines
+
+Totals - 6798 bytes - 158 lines - 6374 bytes
+
